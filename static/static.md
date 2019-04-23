@@ -23,3 +23,10 @@
     │   └── walk.js # 遍历目录内容
     └── index.js # 启动入口文件
     ```
+
+### [koa-static中间件](https://github.com/koajs/static)
+* 运行Demo
+    ```
+    cd static\static-use-middleware
+    node index.js
+    ```

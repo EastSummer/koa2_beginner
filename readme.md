@@ -1,6 +1,8 @@
 
 ### 开始之前
-npm i
+* npm i
+* [Node.js 文档](http://nodejs.cn/api/)
+* [Koa 官网](https://koajs.com)
 
 ### Koa2开始
 1. [hello word](./start/hello.js)
@@ -14,7 +16,7 @@ npm i
 
 ### [获取数据请求](./request/request.md)
 
-
+### [静态资源加载](./static/static.md)
 
 
 

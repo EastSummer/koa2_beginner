@@ -22,6 +22,8 @@
 
 ### [模板引擎](./ejs/ejs.md)
 
+### [文件上传](./upload/upload.md)
+
 
 ### 参考资料
 * [《Koa2进阶学习笔记》](https://chenshenhai.github.io/koa2-note/)
